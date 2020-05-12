@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-           GIT DEFAULT PAGE</div>
+           GIT DEFAULT PAGE<br />
+            line 2 changes</div>
     </form>
 </body>
 </html>
