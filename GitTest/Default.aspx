@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            HI EVERYONE THIS IS MY DEFAULT PAGE</div>
+            HI EVERYONE THIS IS THE DEFAULT PAGE</div>
     </form>
 </body>
 </html>
