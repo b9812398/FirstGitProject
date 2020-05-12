@@ -70,6 +70,7 @@
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Home.aspx" />
+    <Content Include="Index.aspx" />
     <Content Include="URL\giturl.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -90,6 +91,13 @@
     </Compile>
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
