@@ -13,7 +13,8 @@
             line 2 changes<br />
             line 3 changes<br />
             line 4 changes<br />
-            line 5 changes</div>
+            line 5 changes<br />
+            line 6 changes</div>
     </form>
 </body>
 </html>
