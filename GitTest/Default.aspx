@@ -13,7 +13,6 @@
             line 2 changes<br />
             line 3 changes<br />
             line 4 changes<br />
-            <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Home.aspx">HomePage</asp:LinkButton>
         </div>
     </form>
 </body>
