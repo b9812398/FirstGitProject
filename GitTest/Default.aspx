@@ -12,7 +12,9 @@
         HI, THIS IS YOUR GIT DEFAULT PAGE<br />
             line 2 changes<br />
             line 3 changes<br />
-            line 4 changes</div>
+            line 4 changes<br />
+            <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Home.aspx">HomePage</asp:LinkButton>
+        </div>
     </form>
 </body>
 </html>
