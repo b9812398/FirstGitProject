@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            GIT HOME PAGE</div>
+            MY GIT HOME PAGE</div>
     </form>
 </body>
 </html>
