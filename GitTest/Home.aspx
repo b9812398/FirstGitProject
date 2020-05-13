@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            YOUR GIT HOME PAGE<br />
+            GIT HOME PAGE<br />
             <br />
             <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Index.aspx">Index</asp:LinkButton>
         </div>
